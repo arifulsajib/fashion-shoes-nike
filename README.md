@@ -1,4 +1,4 @@
-## Ecommerce website Panda
+## Fashion website penguin
 Responsive design using bootstrap. Users will able to view the optimal layout for the app depending on their device's screen size.
 
 ### Built with
