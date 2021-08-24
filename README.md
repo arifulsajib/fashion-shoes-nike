@@ -4,7 +4,6 @@ Responsive design using bootstrap. Users will able to view the optimal layout fo
 ### Built with
 - Semantic HTML5 markup
 - Bootstrap
-- CSS3
 
 
 ### Links
